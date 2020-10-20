@@ -8,11 +8,11 @@
 
   * For Data Analytics's code, please refers to "spending: https://github.com/ykt30/spending".
 
-* This repository presents a state-of-the-art of my Master's degree project, which is secure the IoT Data Streams in transactions by using Tangle Distributed Ledger and Node-RED Technology. My MSc project received a final score of "76.5", which represented a "Distinction" or "First-Class Honours".
+* This repository presents a state-of-the-art of my Master's Degree Project, which is secure the IoT Data Streams in transactions by using Tangle Distributed Ledger and Node-RED Technology. My Master's Degree Project received a final score of "76.5", which represented a "Distinction" or "First-Class Honours".
 
-  * For my MSc Project Paper, please refers to "Dissertation Research Paper.pdf: https://github.com/Johnny9527/PostgraduateProject_2020/blob/main/Dissertation%20Research%20Paper.pdf"
+  * For my Project Paper, please refers to "Dissertation Research Paper.pdf: https://github.com/Johnny9527/PostgraduateProject_2020/blob/main/Dissertation%20Research%20Paper.pdf"
 
-  * For my MSc Project Presentation, please refers to "Presentation Slides.pdf: https://github.com/Johnny9527/PostgraduateProject_2020/blob/main/Presentation%20Slides.pdf"
+  * For my Project Presentation, please refers to "Presentation Slides.pdf: https://github.com/Johnny9527/PostgraduateProject_2020/blob/main/Presentation%20Slides.pdf"
 
-  * For my MSc Project Demonstration, please refers to "MSc Project - System Demonstration Video: https://youtu.be/KMj21rWiyvQ"
+  * For my Project Demonstration, please refers to "MSc Project - System Demonstration Video: https://youtu.be/KMj21rWiyvQ"
 
