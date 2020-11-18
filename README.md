@@ -4,9 +4,9 @@
 
 * After getting several offers from different universities around the UK, I eventually chose to study the MSc IoT course at Queen Mary University of London. I have learned a lot during my Master's courses. For example, I created a small sensor device by using an Arduino board and controlling it with Arduino IDE in the lab. In Machine Learning class, I learned how to write a neural network function to implement a prediction by using Python. I also completed an individual project in Cloud Computing and a group project in Data Analytics. 
 
-  * For Cloud Computing's code, please refers to "ECS781P_MiniProject: https://github.com/Johnny9527/ECS781P_MiniProject", and "ECS781P_MiniProject_Cassandra: https://github.com/Johnny9527/ECS781P_MiniProject_Cassandra".
+  * For Cloud Computing's code, please refers to "ECS781P_MiniProject: https://github.com/Johnny9527/ECS781P_MiniProject", where I built a light-weighted API that can directly retrieve resources from a specific website every time you initiate it, and "ECS781P_MiniProject_Cassandra: https://github.com/Johnny9527/ECS781P_MiniProject_Cassandra", where I built a small distributed database by using Cassandra and non-relational SQL techniques. This whole structure was constructed on the Amazon Elastic Compute Cloud (EC2) Platform.
 
-  * For Data Analytics's code, please refers to "spending: https://github.com/ykt30/spending".
+  * For Data Analytics's code, please refers to "spending: https://github.com/ykt30/spending". In this project, I used Python as a based programming language and the concept of Time-series to construct a prediction module called "Prophet" to forecast international visitors' spending in London.
 
 * This repository presents a state-of-the-art of my Master's Degree Project, which is secure the IoT Data Streams in transactions by using Tangle Distributed Ledger and Node-RED Technology. My Master's Degree Project received a final score of "76.5", which represented a "Distinction" or "First-Class Honours".
 
